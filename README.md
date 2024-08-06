@@ -6,7 +6,7 @@ This project includes an end-to-end AI system for image segmentation as well as 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rahul/wasserstoff/AiInternTask.git
+   git clone https://github.com/rahuljoshi1814/rahul-wasserstoff-AiInternTask.git
    
 2. Navigate to the project directory:
   cd AiInternTask
