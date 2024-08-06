@@ -1,5 +1,4 @@
-# rahul-wasserstoff-AiInternTask
-This project is an end-to-end solution AI system aimed at performing image segmentation and object analysis.
+# AiInternTask
 
 ## Overview
 This project includes an end-to-end AI system for image segmentation as well as object analysis. These sub-serving processes are; image segmentation, object extraction, object identification, text/data extraction, summarisation of object attributes, data mapping and last but not least; output generation.
