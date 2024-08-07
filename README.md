@@ -35,4 +35,4 @@ This project includes an end-to-end AI system for image segmentation as well as 
 
 ## Notes
 - Ensure Tesseract OCR is installed and its path is configured correctly.
-- This project utilizes YOLOv5 for object detection and EasyOCR for text extraction.
+- This project utilizes Mask R-CNN for object detection and EasyOCR for text extraction.
