@@ -19,8 +19,8 @@ Install the required dependencies: requirements.txt
 ## Project Structure
  1. data/: Contains input images, segmented objects, and output.
  2. notebooks/: Contains the Jupyter notebooks for each processing step.
-   - AI Pipeline for image and object classifications.ipynb: The main notebook to run the entire pipeline.
-   - AI Pipeline for image and object classifications.html: HTML export of the main notebook for easy sharing and viewing.
+    - AI Pipeline for image and object classifications.ipynb: The main notebook to run the entire pipeline.
+    - AI Pipeline for image and object classifications.html: HTML export of the main notebook for easy sharing and viewing.
  3. README.md: This file. Provides an overview of the project, setup instructions, and usage guidelines.
  4. requirements.txt: List of required Python packages.
 ## Requirements
