@@ -27,4 +27,4 @@ Install the required dependencies: pip install -r requirements.txt
  - See requirements.txt for a full list of dependencies.
 ## Notes
  - Ensure Tesseract OCR is installed and its path is configured correctly.
- - This project utilizes Mask R-CNN for object detection and EasyOCR for text extractio
+ - This project utilizes Mask R-CNN for object detection and EasyOCR for text extractions.
