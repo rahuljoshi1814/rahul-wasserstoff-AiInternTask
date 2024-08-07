@@ -4,3 +4,6 @@ numpy
 matplotlib
 easyocr
 torch
+transformers
+Pillow
+requests
