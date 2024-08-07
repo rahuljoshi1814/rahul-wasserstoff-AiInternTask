@@ -7,7 +7,7 @@ Clone the repository:
 git clone https://github.com/rahuljoshi1814/rahul-wasserstoff-AiInternTask.git
 Navigate to the project directory: cd AiInternTask
 
-Install the required dependencies: requirements.txt
+Install the required dependencies: pip install -r requirements.txt
 
 ## Usage Guidelines
  1. Collect the images which you will be processing and put them in data/input_images subdirectory.
