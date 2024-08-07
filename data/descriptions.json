@@ -1,0 +1,68 @@
+[
+    {
+        "master_id": "image_1",
+        "object_id": 1,
+        "file_path": "data/segmented_objects\\image_1_1.jpg",
+        "description": "dog"
+    },
+    {
+        "master_id": "image_2",
+        "object_id": 1,
+        "file_path": "data/segmented_objects\\image_2_1.jpg",
+        "description": "elephant"
+    },
+    {
+        "master_id": "image_3",
+        "object_id": 1,
+        "file_path": "data/segmented_objects\\image_3_1.jpg",
+        "description": "tiger"
+    },
+    {
+        "master_id": "image_3",
+        "object_id": 2,
+        "file_path": "data/segmented_objects\\image_3_2.jpg",
+        "description": "tiger"
+    },
+    {
+        "master_id": "image_4",
+        "object_id": 1,
+        "file_path": "data/segmented_objects\\image_4_1.jpg",
+        "description": "cat"
+    },
+    {
+        "master_id": "image_5",
+        "object_id": 1,
+        "file_path": "data/segmented_objects\\image_5_1.jpg",
+        "description": "toothbrush"
+    },
+    {
+        "master_id": "image_5",
+        "object_id": 2,
+        "file_path": "data/segmented_objects\\image_5_2.jpg",
+        "description": "mobile phone"
+    },
+    {
+        "master_id": "image_6",
+        "object_id": 1,
+        "file_path": "data/segmented_objects\\image_6_1.jpg",
+        "description": "potted plant"
+    },
+    {
+        "master_id": "image_6",
+        "object_id": 2,
+        "file_path": "data/segmented_objects\\image_6_2.jpg",
+        "description": "broccoli"
+    },
+    {
+        "master_id": "image_6",
+        "object_id": 3,
+        "file_path": "data/segmented_objects\\image_6_3.jpg",
+        "description": "flower"
+    },
+    {
+        "master_id": "image_7",
+        "object_id": 1,
+        "file_path": "data/segmented_objects\\image_7_1.jpg",
+        "description": "sports ball"
+    }
+]

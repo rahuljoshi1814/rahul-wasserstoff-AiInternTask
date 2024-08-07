@@ -1,0 +1,699 @@
+{
+    "images": [
+        {
+            "master_id": "image_1",
+            "object_details": [
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_1_1.jpg",
+                    "description": "dog",
+                    "text_data": {
+                        "BBox": "[[28.0, 26.0], [388.0, 26.0], [388.0, 200.0], [28.0, 200.0]]",
+                        "Text": "High",
+                        "Confidence": 0.999770008845333
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_1_1.jpg",
+                    "description": "dog",
+                    "text_data": {
+                        "BBox": "[[27.0, 162.0], [580.0, 162.0], [580.0, 351.0], [27.0, 351.0]]",
+                        "Text": "Quality",
+                        "Confidence": 0.99196923776287
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_1_1.jpg",
+                    "description": "dog",
+                    "text_data": {
+                        "BBox": "[[35.0, 337.0], [661.0, 337.0], [661.0, 473.0], [35.0, 473.0]]",
+                        "Text": "Pictures",
+                        "Confidence": 0.9872439738613088
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_1_1.jpg",
+                    "description": "dog",
+                    "text_data": {
+                        "BBox": "[[78.0, 532.0], [198.0, 532.0], [198.0, 670.0], [78.0, 670.0]]",
+                        "Text": "f",
+                        "Confidence": 0.9856534916123252
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_1_1.jpg",
+                    "description": "dog",
+                    "text_data": {
+                        "BBox": "[[35.0, 121.0], [305.0, 121.0], [305.0, 211.0], [35.0, 211.0]]",
+                        "Text": "PFO+",
+                        "Confidence": 0.1202327609062194
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_1_1.jpg",
+                    "description": "dog",
+                    "text_data": {
+                        "BBox": "[[381.0, 121.0], [665.0, 121.0], [665.0, 211.0], [381.0, 211.0]]",
+                        "Text": "SHOP",
+                        "Confidence": 0.9994553923606871
+                    }
+                }
+            ]
+        },
+        {
+            "master_id": "image_2",
+            "object_details": [
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_2_1.jpg",
+                    "description": "elephant",
+                    "text_data": {
+                        "BBox": "[[28.0, 26.0], [388.0, 26.0], [388.0, 200.0], [28.0, 200.0]]",
+                        "Text": "High",
+                        "Confidence": 0.999770008845333
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_2_1.jpg",
+                    "description": "elephant",
+                    "text_data": {
+                        "BBox": "[[27.0, 162.0], [580.0, 162.0], [580.0, 351.0], [27.0, 351.0]]",
+                        "Text": "Quality",
+                        "Confidence": 0.99196923776287
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_2_1.jpg",
+                    "description": "elephant",
+                    "text_data": {
+                        "BBox": "[[35.0, 337.0], [661.0, 337.0], [661.0, 473.0], [35.0, 473.0]]",
+                        "Text": "Pictures",
+                        "Confidence": 0.9872439738613088
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_2_1.jpg",
+                    "description": "elephant",
+                    "text_data": {
+                        "BBox": "[[78.0, 532.0], [198.0, 532.0], [198.0, 670.0], [78.0, 670.0]]",
+                        "Text": "f",
+                        "Confidence": 0.9856534916123252
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_2_1.jpg",
+                    "description": "elephant",
+                    "text_data": {
+                        "BBox": "[[35.0, 121.0], [305.0, 121.0], [305.0, 211.0], [35.0, 211.0]]",
+                        "Text": "PFO+",
+                        "Confidence": 0.1202327609062194
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_2_1.jpg",
+                    "description": "elephant",
+                    "text_data": {
+                        "BBox": "[[381.0, 121.0], [665.0, 121.0], [665.0, 211.0], [381.0, 211.0]]",
+                        "Text": "SHOP",
+                        "Confidence": 0.9994553923606871
+                    }
+                }
+            ]
+        },
+        {
+            "master_id": "image_3",
+            "object_details": [
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_3_1.jpg",
+                    "description": "tiger",
+                    "text_data": {
+                        "BBox": "[[28.0, 26.0], [388.0, 26.0], [388.0, 200.0], [28.0, 200.0]]",
+                        "Text": "High",
+                        "Confidence": 0.999770008845333
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_3_1.jpg",
+                    "description": "tiger",
+                    "text_data": {
+                        "BBox": "[[27.0, 162.0], [580.0, 162.0], [580.0, 351.0], [27.0, 351.0]]",
+                        "Text": "Quality",
+                        "Confidence": 0.99196923776287
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_3_1.jpg",
+                    "description": "tiger",
+                    "text_data": {
+                        "BBox": "[[35.0, 337.0], [661.0, 337.0], [661.0, 473.0], [35.0, 473.0]]",
+                        "Text": "Pictures",
+                        "Confidence": 0.9872439738613088
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_3_1.jpg",
+                    "description": "tiger",
+                    "text_data": {
+                        "BBox": "[[78.0, 532.0], [198.0, 532.0], [198.0, 670.0], [78.0, 670.0]]",
+                        "Text": "f",
+                        "Confidence": 0.9856534916123252
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_3_1.jpg",
+                    "description": "tiger",
+                    "text_data": {
+                        "BBox": "[[35.0, 121.0], [305.0, 121.0], [305.0, 211.0], [35.0, 211.0]]",
+                        "Text": "PFO+",
+                        "Confidence": 0.1202327609062194
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_3_1.jpg",
+                    "description": "tiger",
+                    "text_data": {
+                        "BBox": "[[381.0, 121.0], [665.0, 121.0], [665.0, 211.0], [381.0, 211.0]]",
+                        "Text": "SHOP",
+                        "Confidence": 0.9994553923606871
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_3_2.jpg",
+                    "description": "tiger",
+                    "text_data": {
+                        "BBox": "[[28.0, 26.0], [388.0, 26.0], [388.0, 200.0], [28.0, 200.0]]",
+                        "Text": "High",
+                        "Confidence": 0.999770008845333
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_3_2.jpg",
+                    "description": "tiger",
+                    "text_data": {
+                        "BBox": "[[27.0, 162.0], [580.0, 162.0], [580.0, 351.0], [27.0, 351.0]]",
+                        "Text": "Quality",
+                        "Confidence": 0.99196923776287
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_3_2.jpg",
+                    "description": "tiger",
+                    "text_data": {
+                        "BBox": "[[35.0, 337.0], [661.0, 337.0], [661.0, 473.0], [35.0, 473.0]]",
+                        "Text": "Pictures",
+                        "Confidence": 0.9872439738613088
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_3_2.jpg",
+                    "description": "tiger",
+                    "text_data": {
+                        "BBox": "[[78.0, 532.0], [198.0, 532.0], [198.0, 670.0], [78.0, 670.0]]",
+                        "Text": "f",
+                        "Confidence": 0.9856534916123252
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_3_2.jpg",
+                    "description": "tiger",
+                    "text_data": {
+                        "BBox": "[[35.0, 121.0], [305.0, 121.0], [305.0, 211.0], [35.0, 211.0]]",
+                        "Text": "PFO+",
+                        "Confidence": 0.1202327609062194
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_3_2.jpg",
+                    "description": "tiger",
+                    "text_data": {
+                        "BBox": "[[381.0, 121.0], [665.0, 121.0], [665.0, 211.0], [381.0, 211.0]]",
+                        "Text": "SHOP",
+                        "Confidence": 0.9994553923606871
+                    }
+                }
+            ]
+        },
+        {
+            "master_id": "image_4",
+            "object_details": [
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_4_1.jpg",
+                    "description": "cat",
+                    "text_data": {
+                        "BBox": "[[28.0, 26.0], [388.0, 26.0], [388.0, 200.0], [28.0, 200.0]]",
+                        "Text": "High",
+                        "Confidence": 0.999770008845333
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_4_1.jpg",
+                    "description": "cat",
+                    "text_data": {
+                        "BBox": "[[27.0, 162.0], [580.0, 162.0], [580.0, 351.0], [27.0, 351.0]]",
+                        "Text": "Quality",
+                        "Confidence": 0.99196923776287
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_4_1.jpg",
+                    "description": "cat",
+                    "text_data": {
+                        "BBox": "[[35.0, 337.0], [661.0, 337.0], [661.0, 473.0], [35.0, 473.0]]",
+                        "Text": "Pictures",
+                        "Confidence": 0.9872439738613088
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_4_1.jpg",
+                    "description": "cat",
+                    "text_data": {
+                        "BBox": "[[78.0, 532.0], [198.0, 532.0], [198.0, 670.0], [78.0, 670.0]]",
+                        "Text": "f",
+                        "Confidence": 0.9856534916123252
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_4_1.jpg",
+                    "description": "cat",
+                    "text_data": {
+                        "BBox": "[[35.0, 121.0], [305.0, 121.0], [305.0, 211.0], [35.0, 211.0]]",
+                        "Text": "PFO+",
+                        "Confidence": 0.1202327609062194
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_4_1.jpg",
+                    "description": "cat",
+                    "text_data": {
+                        "BBox": "[[381.0, 121.0], [665.0, 121.0], [665.0, 211.0], [381.0, 211.0]]",
+                        "Text": "SHOP",
+                        "Confidence": 0.9994553923606871
+                    }
+                }
+            ]
+        },
+        {
+            "master_id": "image_5",
+            "object_details": [
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_5_1.jpg",
+                    "description": "toothbrush",
+                    "text_data": {
+                        "BBox": "[[28.0, 26.0], [388.0, 26.0], [388.0, 200.0], [28.0, 200.0]]",
+                        "Text": "High",
+                        "Confidence": 0.999770008845333
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_5_1.jpg",
+                    "description": "toothbrush",
+                    "text_data": {
+                        "BBox": "[[27.0, 162.0], [580.0, 162.0], [580.0, 351.0], [27.0, 351.0]]",
+                        "Text": "Quality",
+                        "Confidence": 0.99196923776287
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_5_1.jpg",
+                    "description": "toothbrush",
+                    "text_data": {
+                        "BBox": "[[35.0, 337.0], [661.0, 337.0], [661.0, 473.0], [35.0, 473.0]]",
+                        "Text": "Pictures",
+                        "Confidence": 0.9872439738613088
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_5_1.jpg",
+                    "description": "toothbrush",
+                    "text_data": {
+                        "BBox": "[[78.0, 532.0], [198.0, 532.0], [198.0, 670.0], [78.0, 670.0]]",
+                        "Text": "f",
+                        "Confidence": 0.9856534916123252
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_5_1.jpg",
+                    "description": "toothbrush",
+                    "text_data": {
+                        "BBox": "[[35.0, 121.0], [305.0, 121.0], [305.0, 211.0], [35.0, 211.0]]",
+                        "Text": "PFO+",
+                        "Confidence": 0.1202327609062194
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_5_1.jpg",
+                    "description": "toothbrush",
+                    "text_data": {
+                        "BBox": "[[381.0, 121.0], [665.0, 121.0], [665.0, 211.0], [381.0, 211.0]]",
+                        "Text": "SHOP",
+                        "Confidence": 0.9994553923606871
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_5_2.jpg",
+                    "description": "mobile phone",
+                    "text_data": {
+                        "BBox": "[[28.0, 26.0], [388.0, 26.0], [388.0, 200.0], [28.0, 200.0]]",
+                        "Text": "High",
+                        "Confidence": 0.999770008845333
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_5_2.jpg",
+                    "description": "mobile phone",
+                    "text_data": {
+                        "BBox": "[[27.0, 162.0], [580.0, 162.0], [580.0, 351.0], [27.0, 351.0]]",
+                        "Text": "Quality",
+                        "Confidence": 0.99196923776287
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_5_2.jpg",
+                    "description": "mobile phone",
+                    "text_data": {
+                        "BBox": "[[35.0, 337.0], [661.0, 337.0], [661.0, 473.0], [35.0, 473.0]]",
+                        "Text": "Pictures",
+                        "Confidence": 0.9872439738613088
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_5_2.jpg",
+                    "description": "mobile phone",
+                    "text_data": {
+                        "BBox": "[[78.0, 532.0], [198.0, 532.0], [198.0, 670.0], [78.0, 670.0]]",
+                        "Text": "f",
+                        "Confidence": 0.9856534916123252
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_5_2.jpg",
+                    "description": "mobile phone",
+                    "text_data": {
+                        "BBox": "[[35.0, 121.0], [305.0, 121.0], [305.0, 211.0], [35.0, 211.0]]",
+                        "Text": "PFO+",
+                        "Confidence": 0.1202327609062194
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_5_2.jpg",
+                    "description": "mobile phone",
+                    "text_data": {
+                        "BBox": "[[381.0, 121.0], [665.0, 121.0], [665.0, 211.0], [381.0, 211.0]]",
+                        "Text": "SHOP",
+                        "Confidence": 0.9994553923606871
+                    }
+                }
+            ]
+        },
+        {
+            "master_id": "image_6",
+            "object_details": [
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_6_1.jpg",
+                    "description": "potted plant",
+                    "text_data": {
+                        "BBox": "[[28.0, 26.0], [388.0, 26.0], [388.0, 200.0], [28.0, 200.0]]",
+                        "Text": "High",
+                        "Confidence": 0.999770008845333
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_6_1.jpg",
+                    "description": "potted plant",
+                    "text_data": {
+                        "BBox": "[[27.0, 162.0], [580.0, 162.0], [580.0, 351.0], [27.0, 351.0]]",
+                        "Text": "Quality",
+                        "Confidence": 0.99196923776287
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_6_1.jpg",
+                    "description": "potted plant",
+                    "text_data": {
+                        "BBox": "[[35.0, 337.0], [661.0, 337.0], [661.0, 473.0], [35.0, 473.0]]",
+                        "Text": "Pictures",
+                        "Confidence": 0.9872439738613088
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_6_1.jpg",
+                    "description": "potted plant",
+                    "text_data": {
+                        "BBox": "[[78.0, 532.0], [198.0, 532.0], [198.0, 670.0], [78.0, 670.0]]",
+                        "Text": "f",
+                        "Confidence": 0.9856534916123252
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_6_1.jpg",
+                    "description": "potted plant",
+                    "text_data": {
+                        "BBox": "[[35.0, 121.0], [305.0, 121.0], [305.0, 211.0], [35.0, 211.0]]",
+                        "Text": "PFO+",
+                        "Confidence": 0.1202327609062194
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_6_1.jpg",
+                    "description": "potted plant",
+                    "text_data": {
+                        "BBox": "[[381.0, 121.0], [665.0, 121.0], [665.0, 211.0], [381.0, 211.0]]",
+                        "Text": "SHOP",
+                        "Confidence": 0.9994553923606871
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_6_2.jpg",
+                    "description": "broccoli",
+                    "text_data": {
+                        "BBox": "[[28.0, 26.0], [388.0, 26.0], [388.0, 200.0], [28.0, 200.0]]",
+                        "Text": "High",
+                        "Confidence": 0.999770008845333
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_6_2.jpg",
+                    "description": "broccoli",
+                    "text_data": {
+                        "BBox": "[[27.0, 162.0], [580.0, 162.0], [580.0, 351.0], [27.0, 351.0]]",
+                        "Text": "Quality",
+                        "Confidence": 0.99196923776287
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_6_2.jpg",
+                    "description": "broccoli",
+                    "text_data": {
+                        "BBox": "[[35.0, 337.0], [661.0, 337.0], [661.0, 473.0], [35.0, 473.0]]",
+                        "Text": "Pictures",
+                        "Confidence": 0.9872439738613088
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_6_2.jpg",
+                    "description": "broccoli",
+                    "text_data": {
+                        "BBox": "[[78.0, 532.0], [198.0, 532.0], [198.0, 670.0], [78.0, 670.0]]",
+                        "Text": "f",
+                        "Confidence": 0.9856534916123252
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_6_2.jpg",
+                    "description": "broccoli",
+                    "text_data": {
+                        "BBox": "[[35.0, 121.0], [305.0, 121.0], [305.0, 211.0], [35.0, 211.0]]",
+                        "Text": "PFO+",
+                        "Confidence": 0.1202327609062194
+                    }
+                },
+                {
+                    "object_id": 2,
+                    "file_path": "data/segmented_objects\\image_6_2.jpg",
+                    "description": "broccoli",
+                    "text_data": {
+                        "BBox": "[[381.0, 121.0], [665.0, 121.0], [665.0, 211.0], [381.0, 211.0]]",
+                        "Text": "SHOP",
+                        "Confidence": 0.9994553923606871
+                    }
+                },
+                {
+                    "object_id": 3,
+                    "file_path": "data/segmented_objects\\image_6_3.jpg",
+                    "description": "flower",
+                    "text_data": {
+                        "BBox": "[[28.0, 26.0], [388.0, 26.0], [388.0, 200.0], [28.0, 200.0]]",
+                        "Text": "High",
+                        "Confidence": 0.999770008845333
+                    }
+                },
+                {
+                    "object_id": 3,
+                    "file_path": "data/segmented_objects\\image_6_3.jpg",
+                    "description": "flower",
+                    "text_data": {
+                        "BBox": "[[27.0, 162.0], [580.0, 162.0], [580.0, 351.0], [27.0, 351.0]]",
+                        "Text": "Quality",
+                        "Confidence": 0.99196923776287
+                    }
+                },
+                {
+                    "object_id": 3,
+                    "file_path": "data/segmented_objects\\image_6_3.jpg",
+                    "description": "flower",
+                    "text_data": {
+                        "BBox": "[[35.0, 337.0], [661.0, 337.0], [661.0, 473.0], [35.0, 473.0]]",
+                        "Text": "Pictures",
+                        "Confidence": 0.9872439738613088
+                    }
+                },
+                {
+                    "object_id": 3,
+                    "file_path": "data/segmented_objects\\image_6_3.jpg",
+                    "description": "flower",
+                    "text_data": {
+                        "BBox": "[[78.0, 532.0], [198.0, 532.0], [198.0, 670.0], [78.0, 670.0]]",
+                        "Text": "f",
+                        "Confidence": 0.9856534916123252
+                    }
+                },
+                {
+                    "object_id": 3,
+                    "file_path": "data/segmented_objects\\image_6_3.jpg",
+                    "description": "flower",
+                    "text_data": {
+                        "BBox": "[[35.0, 121.0], [305.0, 121.0], [305.0, 211.0], [35.0, 211.0]]",
+                        "Text": "PFO+",
+                        "Confidence": 0.1202327609062194
+                    }
+                },
+                {
+                    "object_id": 3,
+                    "file_path": "data/segmented_objects\\image_6_3.jpg",
+                    "description": "flower",
+                    "text_data": {
+                        "BBox": "[[381.0, 121.0], [665.0, 121.0], [665.0, 211.0], [381.0, 211.0]]",
+                        "Text": "SHOP",
+                        "Confidence": 0.9994553923606871
+                    }
+                }
+            ]
+        },
+        {
+            "master_id": "image_7",
+            "object_details": [
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_7_1.jpg",
+                    "description": "sports ball",
+                    "text_data": {
+                        "BBox": "[[28.0, 26.0], [388.0, 26.0], [388.0, 200.0], [28.0, 200.0]]",
+                        "Text": "High",
+                        "Confidence": 0.999770008845333
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_7_1.jpg",
+                    "description": "sports ball",
+                    "text_data": {
+                        "BBox": "[[27.0, 162.0], [580.0, 162.0], [580.0, 351.0], [27.0, 351.0]]",
+                        "Text": "Quality",
+                        "Confidence": 0.99196923776287
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_7_1.jpg",
+                    "description": "sports ball",
+                    "text_data": {
+                        "BBox": "[[35.0, 337.0], [661.0, 337.0], [661.0, 473.0], [35.0, 473.0]]",
+                        "Text": "Pictures",
+                        "Confidence": 0.9872439738613088
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_7_1.jpg",
+                    "description": "sports ball",
+                    "text_data": {
+                        "BBox": "[[78.0, 532.0], [198.0, 532.0], [198.0, 670.0], [78.0, 670.0]]",
+                        "Text": "f",
+                        "Confidence": 0.9856534916123252
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_7_1.jpg",
+                    "description": "sports ball",
+                    "text_data": {
+                        "BBox": "[[35.0, 121.0], [305.0, 121.0], [305.0, 211.0], [35.0, 211.0]]",
+                        "Text": "PFO+",
+                        "Confidence": 0.1202327609062194
+                    }
+                },
+                {
+                    "object_id": 1,
+                    "file_path": "data/segmented_objects\\image_7_1.jpg",
+                    "description": "sports ball",
+                    "text_data": {
+                        "BBox": "[[381.0, 121.0], [665.0, 121.0], [665.0, 211.0], [381.0, 211.0]]",
+                        "Text": "SHOP",
+                        "Confidence": 0.9994553923606871
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+Object ID,File Path,Description,BBox,Text,Confidence
+1,data/segmented_objects\image_4_1.jpg,cat,"[[28.0, 26.0], [388.0, 26.0], [388.0, 200.0], [28.0, 200.0]]",High,0.999770008845333
+1,data/segmented_objects\image_4_1.jpg,cat,"[[27.0, 162.0], [580.0, 162.0], [580.0, 351.0], [27.0, 351.0]]",Quality,0.99196923776287
+1,data/segmented_objects\image_4_1.jpg,cat,"[[35.0, 337.0], [661.0, 337.0], [661.0, 473.0], [35.0, 473.0]]",Pictures,0.9872439738613088
+1,data/segmented_objects\image_4_1.jpg,cat,"[[78.0, 532.0], [198.0, 532.0], [198.0, 670.0], [78.0, 670.0]]",f,0.9856534916123252
+1,data/segmented_objects\image_4_1.jpg,cat,"[[35.0, 121.0], [305.0, 121.0], [305.0, 211.0], [35.0, 211.0]]",PFO+,0.1202327609062194
+1,data/segmented_objects\image_4_1.jpg,cat,"[[381.0, 121.0], [665.0, 121.0], [665.0, 211.0], [381.0, 211.0]]",SHOP,0.9994553923606871

@@ -1,0 +1,12 @@
+master_id,object_id,file_path,description
+image_1,1,data/segmented_objects\image_1_1.jpg,dog
+image_2,1,data/segmented_objects\image_2_1.jpg,elephant
+image_3,1,data/segmented_objects\image_3_1.jpg,tiger
+image_3,2,data/segmented_objects\image_3_2.jpg,tiger
+image_4,1,data/segmented_objects\image_4_1.jpg,cat
+image_5,1,data/segmented_objects\image_5_1.jpg,toothbrush
+image_5,2,data/segmented_objects\image_5_2.jpg,mobile phone
+image_6,1,data/segmented_objects\image_6_1.jpg,potted plant
+image_6,2,data/segmented_objects\image_6_2.jpg,broccoli
+image_6,3,data/segmented_objects\image_6_3.jpg,flower
+image_7,1,data/segmented_objects\image_7_1.jpg,sports ball
